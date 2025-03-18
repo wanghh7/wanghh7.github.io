@@ -1,0 +1,14 @@
+---
+title: "Towards Heterogeneous Long-tailed Learning: Benchmarking, Metrics, and Toolbox"
+collection: publications
+category: conferences
+permalink: /publication/2024-Towards-6
+excerpt: 'Long-tailed data distributions pose challenges for a variety of domains like e-commerce, finance, biomedical science, and cyber security, where the performance of machine learning models is often dominated by head categories while tail categories are inadequately learned. This work aims to provide a systematic view of long-tailed learning with regard to three pivotal angles: (A1) the characterization of data long-tailedness, (A2) the data complexity of various domains, and (A3) the heterogeneity of emerging tasks. We develop HeroLT, a comprehensive long-tailed learning benchmark integrating 18 state-of-the-art algorithms, 10 evaluation metrics, and 17 real-world datasets across 6 tasks and 4 data modalities. HeroLT with novel angles and extensive experiments (315 in total) enables effective and fair evaluation of newly proposed methods compared with existing baselines on varying dataset types. Finally, we conclude by highlighting the significant applications of long-tailed learning and identifying several promising future directions. For accessibility and reproducibility, we open-source our benchmark HeroLT and corresponding results at this https URL.'
+date: 2024-09-01
+venue: 'NeurIPS D&B Track 2024'
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://arxiv.org/abs/2307.08235'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
