@@ -48,15 +48,15 @@ author_profile: true
 <div class="dog-gallery">
   <h2>Maggie</h2>
   <div class="dog-gallery__grid">
-    <img class="dog-gallery__image" src="{{ base_path }}/images/Maggie1.JPG" alt="Maggie photo 1">
-    <img class="dog-gallery__image" src="{{ base_path }}/images/Maggie2.JPG" alt="Maggie photo 2">
-    <img class="dog-gallery__image" src="{{ base_path }}/images/Maggie3.JPG" alt="Maggie photo 3">
+    <img class="dog-gallery__image" src="{{ base_path }}/images/maggie1.JPG" alt="Maggie photo 1">
+    <img class="dog-gallery__image" src="{{ base_path }}/images/maggie2.JPG" alt="Maggie photo 2">
+    <img class="dog-gallery__image" src="{{ base_path }}/images/maggie3.JPG" alt="Maggie photo 3">
   </div>
 
   <h2>Mia</h2>
   <div class="dog-gallery__grid">
-    <img class="dog-gallery__image" src="{{ base_path }}/images/Mia1.JPG" alt="Mia photo 1">
-    <img class="dog-gallery__image" src="{{ base_path }}/images/Mia2.JPG" alt="Mia photo 2">
-    <img class="dog-gallery__image" src="{{ base_path }}/images/Mia3.JPG" alt="Mia photo 3">
+    <img class="dog-gallery__image" src="{{ base_path }}/images/mia1.JPG" alt="Mia photo 1">
+    <img class="dog-gallery__image" src="{{ base_path }}/images/mia2.JPG" alt="Mia photo 2">
+    <img class="dog-gallery__image" src="{{ base_path }}/images/mia3.JPG" alt="Mia photo 3">
   </div>
 </div>
