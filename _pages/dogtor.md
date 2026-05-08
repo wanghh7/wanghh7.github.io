@@ -51,9 +51,6 @@ author_profile: true
     <img class="dog-gallery__image" src="{{ base_path }}/images/Maggie1.JPG" alt="Maggie photo 1">
     <img class="dog-gallery__image" src="{{ base_path }}/images/Maggie2.JPG" alt="Maggie photo 2">
     <img class="dog-gallery__image" src="{{ base_path }}/images/Maggie3.JPG" alt="Maggie photo 3">
-    <img class="dog-gallery__image" src="{{ base_path }}/images/Maggie4.JPG" alt="Maggie photo 4">
-    <img class="dog-gallery__image" src="{{ base_path }}/images/Maggie5.JPG" alt="Maggie photo 5">
-    <img class="dog-gallery__image" src="{{ base_path }}/images/Maggie6.JPG" alt="Maggie photo 6">
   </div>
 
   <h2>Mia</h2>

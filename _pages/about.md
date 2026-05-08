@@ -9,23 +9,23 @@ redirect_from:
 
 I am a fourth-year PhD student in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/Graduate/Degrees/Doctorate.html). I am very fortunate to be advised by [Prof. Dawei Zhou](https://sites.google.com/view/dawei-zhou/home). My research interests lie in machine learning and AI for scientific discovery, with applications spanning cybersecurity and materials science. My enthusiasm is to study artificial long-tail intelligence as a unifying perspective for designing AI systems that can learn, reason, and generalize reliably under dynamic, out-of-distribution, and complex conditions, where critical behaviors often reside in the tail. I have authored 10+ publications in premier academic venues across AI, data mining, and information retrieval, including ICML, NeurIPS, KDD, ICDM, and NAACL. My work has been recognized with the Amazon Fellowship, the CCI SWVA Cyber Innovation Scholarship, and the KDD Student Travel Award.
 
-<img src="/images/ResearchVision.png" width="70%" height="40%"/>
+<img src="/images/ResearchVision.png" width="90%" height="50%"/>
 
 Latest News
 ======
-[Apr 2026] One paper was accepted to ICML.
+[Apr 2026] One paper was accepted to ICML 2026.
 
-[Apr 2026] One paper was accepted to ACL.
+[Apr 2026] One paper was accepted to ACL 2026.
 
 [Oct 2025] I received the Amazon Fellowship.
 
-[Sep 2025] One paper was accepted to NeurIPS.
+[Sep 2025] One paper was accepted to NeurIPS 2025.
 
 [Sep 2025] One paper was accepted to IEEE Journal of Biomedical and Health Informatics.
 
-[May 2025] One paper was accepted to ICML.
+[May 2025] One paper was accepted to ICML 2025.
 
-[May 2025] Two papers were accepted to KDD.
+[May 2025] Two papers were accepted to KDD 2025.
 
 [Mar 2025] One paper was accepted to NAACL 2025.
 
