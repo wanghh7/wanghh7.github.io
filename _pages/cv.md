@@ -1,55 +1,61 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science, Virginia Tech, 2027 (expected)
-* M.S. in Probability and Mathematical Statistics, Zhejiang University, 2022
-* B.Sc. in Mathematics and Applied Mathematics, Shandong University, 2019
+<style>
+  .cv-preview-page .page {
+    float: none;
+    width: 100%;
+  }
 
-Work experience
-======
-* Summer 2022: Research Intern.
-  * Alibaba DAMO Academy
+  .cv-preview-page .page__inner-wrap {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
 
-* Fall 2020: Algorithm Intern.
-  * DiDi Global
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+  .cv-preview {
+    margin-top: 1.5rem;
+  }
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-<!--   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+  .cv-preview__frame {
+    width: 100%;
+    min-height: 80vh;
+    border: 1px solid #d5d5d5;
+    border-radius: 12px;
+    background: #f8f8f8;
+  }
+
+  .cv-preview__fallback {
+    margin-top: 1rem;
+    text-align: center;
+  }
+</style>
+
+<script>
+  document.documentElement.classList.add('cv-preview-page');
+</script>
+
+<div class="cv-preview">
+  <object
+    class="cv-preview__frame"
+    data="{{ base_path }}/files/Curriculum_Vitae.pdf#view=FitH"
+    type="application/pdf"
+  >
+    <iframe
+      class="cv-preview__frame"
+      src="{{ base_path }}/files/Curriculum_Vitae.pdf#view=FitH"
+      title="Curriculum Vitae PDF Preview"
+    ></iframe>
+  </object>
+
+  <p class="cv-preview__fallback">
+    If the preview does not load, <a href="{{ base_path }}/files/Curriculum_Vitae.pdf">open the PDF directly</a>.
+  </p>
+</div>

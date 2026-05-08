@@ -7,15 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student supervised by [Dr. Dawei Zhou](https://sites.google.com/view/dawei-zhou/home) in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/Graduate/Degrees/Doctorate.html). I received my Master's degree in Statistics at [Zhejiang University](https://www.zju.edu.cn/english/) in 2022, and my Bachelor's degree in Mathematics at [Shandong University](https://en.sdu.edu.cn) in 2019. 
+I am a fourth-year PhD student in the Computer Science Department at [Virginia Tech](https://website.cs.vt.edu/Graduate/Degrees/Doctorate.html). I am very fortunate to be advised by [Prof. Dawei Zhou](https://sites.google.com/view/dawei-zhou/home). My research interests lie in machine learning and AI for scientific discovery, with applications spanning cybersecurity and materials science. My enthusiasm is to study artificial long-tail intelligence as a unifying perspective for designing AI systems that can learn, reason, and generalize reliably under dynamic, out-of-distribution, and complex conditions, where critical behaviors often reside in the tail. I have authored 10+ publications in premier academic venues across AI, data mining, and information retrieval, including ICML, NeurIPS, KDD, ICDM, and NAACL. My work has been recognized with the Amazon Fellowship, the CCI SWVA Cyber Innovation Scholarship, and the KDD Student Travel Award.
 
-My research interests are broadly in Machine Learning and Data Mining. My enthusiasm is to address challenges in open-world machine learning, including developing theories and frameworks to better understand heavy-tail phenomena, characterizing long-tail and dynamic data, and improving model generalization.
+<img src="/images/ResearchVision.png" width="70%" height="40%"/>
 
 Latest News
 ======
+[Apr 2026] One paper was accepted to ICML.
+
+[Apr 2026] One paper was accepted to ACL.
+
+[Oct 2025] I received the Amazon Fellowship.
+
+[Sep 2025] One paper was accepted to NeurIPS.
+
+[Sep 2025] One paper was accepted to IEEE Journal of Biomedical and Health Informatics.
+
+[May 2025] One paper was accepted to ICML.
+
+[May 2025] Two papers were accepted to KDD.
+
 [Mar 2025] One paper was accepted to NAACL 2025.
 
-[Sep 2024] One paper was accepted to NeurIPS 2024.
+<!-- [Sep 2024] One paper was accepted to NeurIPS 2024.
 
 [Jul 2024] I received KDD Student Travel Award.
 
@@ -27,11 +41,21 @@ Latest News
 
 [Jul 2023] I received KDD Student Travel Award.
 
-[Mar 2023] I received for the 2023 CCI SWVA Cyber Innovation Scholarship.
+[Mar 2023] I received for the 2023 CCI SWVA Cyber Innovation Scholarship. -->
 
 Services
 ======
 
-PC/Reviewer: KDD'25, ICLR'25 AgenticAI Workshop, WWW'25 Short Paper, WWW'25, Medical Image Analysis, KDD'24
+Reviewer: ACM Computing Surveys, IEEE Transactions on Network Science and Engineering, ICML'26, NeurIPS'26, Medical Image Analysis, IEEE Transactions on Network Science and Engineering, ICLR'25 AgenticAI Workshop, ICLR'25, NeurIPS'25, KDD'25, KDD'24, WWW'24
 
-Organizer: WWW TrustLOG Workshop
+Presenter: Amazon-Virginia Tech AI Workshop'25
+
+Program Committee: WWW'25 Companion Short Paper Track
+
+Guest Lecture: CS4824 Machine Learning'25, CS6804 Machine Learning on Graphs'24
+
+Invited Talk: Oak Ridge National Lab'24, Deloitte AI Lab'24
+
+Organizer: WWW TrustLOG Workshop'24
+
+Conference Volunteer: KDD Conference'24, KDD Conference'23
