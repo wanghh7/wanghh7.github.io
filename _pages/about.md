@@ -46,7 +46,7 @@ Latest News
 Services
 ======
 
-Reviewer: ACM Computing Surveys, IEEE Transactions on Network Science and Engineering, ICML'26, NeurIPS'26, Medical Image Analysis, IEEE Transactions on Network Science and Engineering, ICLR'25 AgenticAI Workshop, ICLR'25, NeurIPS'25, KDD'25, KDD'24, WWW'24
+Reviewer: ACM Computing Surveys, IEEE Transactions on Network Science and Engineering, ICML'26 (Gold Reviewer), NeurIPS'26, Medical Image Analysis, IEEE Transactions on Network Science and Engineering, ICLR'25 AgenticAI Workshop, ICLR'25, NeurIPS'25, KDD'25, KDD'24, WWW'24
 
 Presenter: Amazon-Virginia Tech AI Workshop'25
 
